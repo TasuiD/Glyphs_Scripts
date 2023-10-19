@@ -1,5 +1,6 @@
 # 关于
-锐锐自己写的一些Glyphs3用Python脚本，也不知道有没有bug
+锐锐自己写的一些Glyphs3用Python脚本，也不知道有没有bug，欢迎反馈
+联系方式：drayzhang99@gmail.com
 
 # 安装
 1. 安装模块：打开Glyphs3-Window-Plugin Manager-Module，确保「Python」和「Vanilla」模块已经安装；
