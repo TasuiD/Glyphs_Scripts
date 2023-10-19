@@ -12,6 +12,5 @@
 * 各母版预览：依次显示当前预览窗口的文本的所有母版图层，应用于多母版项目；
 * 永结同心：计算选中字符的平均中心位置并显示在宏面板中
 * 要修边幅：
-* 森破图样：升级版Sample Strings，可照猫画虎编辑/SampleTextDataset/SampleText.txt中的文本。识别序列是     `##标题在这##
-  样本字串在这
-  %%`
+* 森破图样：升级版Sample Strings，可照猫画虎编辑/SampleTextDataset/SampleText.txt中的文本。识别序列是
+   `##标题##样本字串%%`
