@@ -15,3 +15,4 @@
 * 森破图样：升级版Sample Strings，可照猫画虎编辑/SampleTextDataset/SampleText.txt中的文本。识别序列是
    `##标题##样本字串%%`
 * 一扫而空：清空所选图层的形状；
+* GlyphModificationForEastAsianWidth：迅速调整全宽和半宽东亚字符的工具，多用于自动生成的字符；
