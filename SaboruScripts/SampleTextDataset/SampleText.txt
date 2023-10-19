@@ -1,0 +1,243 @@
+Kerning Pairs
+ASCII Test Texts
+##lower-case chain##
+|a|b|c|d|e|f|g|h|i|j|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z|
+aaabacadaeafagahaiajakalamanaoapaqarasatauavawaxayaza
+babbbcbdbebfbgbhbibjbkblbmbnbobpbqbrbsbtbubvbwbxbybzb
+cacbcccdcecfcgchcicjckclcmcncocpcqcrcsctcucvcwcxcyczc
+dadbdcdddedfdgdhdidjdkdldmdndodpdqdrdsdtdudvdwdxdydzd
+eaebecedeeefegeheiejekelemeneoepeqereseteuevewexeyeze
+fafbfcfdfefffgfhfifjfkflfmfnfofpfqfrfsftfufvfwfxfyfzf
+gagbgcgdgegfggghgigjgkglgmgngogpgqgrgsgtgugvgwgxgygzg
+hahbhchdhehfhghhhihjhkhlhmhnhohphqhrhshthuhvhwhxhyhzh
+iaibicidieifigihiiijikiliminioipiqirisitiuiviwixiyizi
+jajbjcjdjejfjgjhjijjjkjljmjnjojpjqjrjsjtjujvjwjxjyjzj
+kakbkckdkekfkgkhkikjkkklkmknkokpkqkrksktkukvkwkxkykzk
+lalblcldlelflglhliljlklllmlnlolplqlrlsltlulvlwlxlylzl
+mambmcmdmemfmgmhmimjmkmlmmmnmompmqmrmsmtmumvmwmxmymzm
+nanbncndnenfngnhninjnknlnmnnnonpnqnrnsntnunvnwnxnynzn
+oaobocodoeofogohoiojokolomonooopoqorosotouovowoxoyozo
+papbpcpdpepfpgphpipjpkplpmpnpopppqprpsptpupvpwpxpypzp
+qaqbqcqdqeqfqgqhqiqjqkqlqmqnqoqpqqqrqsqtquqvqwqxqyqzq
+rarbrcrdrerfrgrhrirjrkrlrmrnrorprqrrrsrtrurvrwrxryrzr
+sasbscsdsesfsgshsisjskslsmsnsospsqsrssstsusvswsxsyszs
+tatbtctdtetftgthtitjtktltmtntotptqtrtstttutvtwtxtytzt
+uaubucudueufuguhuiujukulumunuoupuqurusutuuuvuwuxuyuzu
+vavbvcvdvevfvgvhvivjvkvlvmvnvovpvqvrvsvtvuvvvwvxvyvzv
+wawbwcwdwewfwgwhwiwjwkwlwmwnwowpwqwrwswtwuwwvwwxwywzw
+xaxbxcxdxexfxgxhxixjxkxlxmxnxoxpxqxrxsxtxuxvxwxxxyxzx
+yaybycydyeyfygyhyiyjykylymynyoypyqyrysytyuyvywyxyyyzy
+zazbzczdzezfzgzhzizjzkzlzmznzozpzqzrzsztzuzvzwzxzyzzz
+&a&b&c&d&e&f&g&h&i&j&k&l&m&n&o&p&q&r&s&t&u&v&w&x&y&z&
+,a,b,c,d,e,f,g,h,i,j,k,l,m,n,o,p,q,r,s,t,u,v,w,x,y,z,
+a’b’c’d’e’f’g’h’i’j’k’l’m’n’o’p’q’r’s’t’u’v’w’x’y’z’
+abcedfghijklmnopqrstuvwxyz
+.a.b.c.e.d.f.g.h.i.j.k.l.m.n.o.p.q.r.s.t.u.v.w.x.y.z.
+%%
+
+##CAPITALCHAIN##
+|A|B|C|D|E|F|G|H|I|J|K|L|M|N|O|P|Q|R|S|T|U|V|W|X|Y|Z|
+AAABACADAEAFAGAHAIAJAKALAMANAOAPAQARASATAUAVAWAXAYAZA
+BABBBCBDBEBFBGBHBIBJBKBLBMBNBOBPBQBRBSBTBUBVBWBXBYBZB
+CACBCCCDCECFCGCHCICJCKCLCMCNCOCPCQCRCSCTCUCVCWCXCYCZC
+DADBDCDDDEDFDGDHDIDJDKDLDMDNDODPDQDRDSDTDUDVDWDXDYDZD
+EAEBECEDEEEFEGEHEIEJEKELEMENEOEPEQERESETEUEVEWEXEYEZE
+FAFBFCFDFEFFFGFHFIFJFKFLFMFNFOFPFQFRFSFTFUFVFWFXFYFZF
+GAGBGCGDGEGFGGGHGIGJGKGLGMGNGOGPGQGRGSGTGUGVGWGXGYGZG
+HAHBHCHDHEHFHGHHHIHJHKHLHMHNHOHPHQHRHSHTHUHVHWHXHYHZH 
+IAIBICIDIEIFIGIHIIIJIKILIMINIOIPIQIRISITIUIVIWIXIYIZI
+JAJBJCJDJEJFJGJHJIJJJKJLJMJNJOJPJQJRJSJTJUJVJWJXJYJZJ
+KAKBKCKDKEKFKGKHKIKJKKKLKMKNKOKPKQKRKSKTKUKVKWKXKYKZK
+LALBLCLDLELFLGLHLILJLKLLLMLNLOLPLQLRLSLTLULVLWLXLYLZL
+MAMBMCMDMEMFMGMHMIMJMKMLMMMNMOMPMQMRMSMTMUMVMWMXMYMZM
+NANBNCNDNENFNGNHNINJNKNLNMNNNONPNQNRNSNTNUNVNWNXNYNZN
+OAOBOCODOEOFOGOHOIOJOKOLOMONOOOPOQOROSOTOUOVOWOXOYOZO
+PAPBPCPDPEPFPGPHPIPJPKPLPMPNPOPPPQPRPSPTPUPVPWPXPYPZP
+QAQBQCQDQEQFQGQHQIQJQKQLQMQNQOQPQQQRQSQTQUQVQWQXQYQZ
+RARBRCRDRERFRGRHRIRJRKRLRMRNRORPRQRRRSRTRURVRWRXRYRZR
+SASBSCSDSESFSGSHSISJSKSLSMSNSOSPSQSRSSSTSUSVSWSXSYSZS
+TATBTCTDTETFTGTHTITJTKTLTMTNTOTPTQTRTSTTTUTVTWTXTYTZT
+UAUBUCUDUEUFUGUHUIUJUKULUMUNUOUPUQURUSUTUUUVUWUXUYUZU
+VAVBVCVDVEVFVGVHVIVJVKVLVMVNVOVPVQVRVSVTVUVVVWVXVYVZV
+WAWBWCWDWEWFWGWHWIWJWKWLWMWNWOWPWQWRWSWTWUWVWWWXWYWZW
+XAXBXCXDXEXFXGXHXIXJXKXLXMXNXOXPXQXRXSXTXUXVXWXXXYXZX
+YAYBYCYDYEYFYGYHYIYJYKYLYMYNYOYPYQYRYSYTYUYVYWYXYYYZY
+ZAZBZCZDZEZFZGZHZIZJZKZLZMZNZOZPZQZRZSZTZUZVZWZXZYZZZ
+&A&B&C&D&E&F&G&H&I&J&K&L&M&N&O&P&Q&R&S&T&U&V&W&X&Y&Z&
+,A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P,Q,R,S,U,V,W,X,Y,Z,
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+.A.B.C.D.E.F.G.H.I.J.K.L.M.N.O.P.Q.R.S.T.U.V.W.X.Y.Z.
+‘A’B’C’D’E’F’G’H’I’J’K’L’M’N’O’P’Q’R’S’T’U’V’W’X’Y’Z’
+%%
+
+##Mixed Capital & Lower-case Chain##
+AaAbAcAdAeAfAgAhAiAjAkAlAmAnAoApAqArAsAtAuAvAwAxAyAzA
+BaBbBcBdBeBfBgBhBiBjBkBlBmBnBoBpBqBrBsBtBuBvBwBxByBzB
+CaCbCcCdCeCfCgChCiCjCkClCmCnCoCpCqCrCsCtCuCvCwCxCyCzC
+DaDbDcDdDeDfDgDhDiDjDkDlDmDnDoDpDqDrDsDtDuDvDwDxDyDzD
+EaEbEcEdEeEfEgEhEiEjEkElEmEnEoEpEqErEsEtEuEvEwExEyEzE
+FaFbFcFdFeFfFgFhFiFjFkFlFmFnFoFpFqFrFsFtFuFvFwFxFyFzF
+GaGbGcGdGeGfGgGhGiGjGkGlGmGnGoGpGqGrGsGtGuGvGwGxGyGzG
+HaHbHcHdHeHfHgHhHiHjHkHlHmHnHoHpHqHrHsHtHuHvHwHxHyHzH
+IaIbIcIdIeIfIgIhIiIjIkIlImInIoIpIqIrIsItIuIvIwIxIyIzI
+JaJbJcJdJeJfJgJhJiJjJkJlJmJnJoJpJqJrJsJtJuJvJwJxJyJzJ
+KaKbKcKdKeKfKgKhKiKjKkKlKmKnKoKpKqKrKsKtKuKvKwKxKyKzK
+LaLbLcLdLeLfLgLhLiLjLkLlLmLnLoLpLqLrLsLtLuLvLwLxLyLzL
+MaMbMcMdMeMfMgMhMiMjMkMlMmMnMoMpMqMrMsMtMuMvMwMxMyMzM
+NaNbNcNdNeNfNgNhNiNjNkNlNmNnNoNpNqNrNsNtNuNvNwNxNyNzN
+OaObOcOdOeOfOgOhOiOjOkOlOmOnOoOpOqOrOsOtOuOvOwOxOyOzO
+PaPbPcPdPePfPgPhPiPjPkPlPmPnPoPpPqPrPsPtPuPvPwPxPyPzP
+QaQbQcQdQeQfQgQhQiQjQkQlQmQnQoQpQqQrQsQtQuQvQwQxQyQzQ
+RaRbRcRdReRfRgRhRiRjRkRlRmRnRoRpRqRrRsRtRuRvRwRxRyRzR
+SaSbScSdSeSfSgShSiSjSkSlSmSnSoSpSqSrSsStSuSvSwSxSySzS
+TaTbTcTdTeTfTgThTiTjTkTlTmTnToTpTqTrTsTtTuTvTwTxTyTzT
+UaUbUcUdUeUfUgUhUiUjUkUlUmUnUoUpUqUrUsUtUuUvUwUxUyUzU
+VaVbVcVdVeVfVgVhViVjVkVlVmVnVoVpVqVrVsVtVuVvVwVxVyVzV
+WaWbWcWdWeWfWgWhWiWjWkWlWmWnWoWpWqWrWsWtWuWvWwWxWyWzW
+XaXbXcXdXeXfXgXhXiXjXkXlXmXnXoXpXqXrXsXtXuXvXwXxXyXzX
+YaYbYcYdYeYfYgYhYiYjYkYlYmYnYoYpYqYrYsYtYuYvYwYxYyYzY
+ZaZbZcZdZeZfZgZhZiZjZkZlZmZnZoZpZqZrZsZtZuZvZwZxZyZzZ %%
+
+##Figure and Symbol Chains##  |1|2|3|4|5|6|7|8|9|0|
+010203040506070809000
+111213141516171819101
+212223242526272829202
+313233343536373839303
+414243444546474849404
+515253545556575859505
+616263646566676869606
+717273747576777879707
+818283848586878889808
+919293949596979899909
+0$0$1$2$3$4$5$6$7$8$9$
+0%0%1%2%3%4%5%6%7%8%9% 0#0#1#2#3#4#5#6#7#8#9# 0@0@1@2@3@4@5@6@7@8@9@ 0*1*2*3*4*5*6*7*8*9*0* 0-1-2-3-4-5-6-7-8-9-0- 0+0+1+2+3+4+5+6+7+8+9+ 0=0=1=2=3=4=5=6=7=8=9= 0<0<1<2<3<4<5<6<7<8<9< 0>0>1>2>3>4>5>6>7>8>9>
+0~0~1~2~3~4~5~6~7~8~9~ 0/0/1/2/3/4/5/6/7/8/9/ 0>0>1>2>3>4>5>6>7>8>9> 0^1^2^3^4^5^6^7^8^9^0^
+%%
+
+##Figure and lower-case Chains##
+a1a2a3a4a5a6a7a8a9a0a
+b1b2b3b4b5b6b7b8b9b0b
+c12c3c4c5c6c7c8c9c0c
+d1d2d3d4d5d6d7d8d9d0d
+e1e2e3e4e5e6e7e8e9e0
+f1f2f3f4f5f6f7f8f9f0
+g1g2g3g4g5g6g7g8g9g0
+h1h2h3h4h5h6h7h8h9h0h
+i1i2i3i4i5i6i7i8i9i0i
+j1j2j3j4j5j6j7j8j9j0j
+k1k2k3k4k5k6k7k8k9k0k
+l1l2l3l4l5l6l7l8l9l0l
+m1m2m3m4m5m6m7m8m9m0m
+n1n2n3n4n5n6n7n8n9n0n
+o1o2o3o4o5o6o7o8o9o0o
+p1p2p3p4p5p6p7p8p9p0p
+q1q2q3q4q5q6q7q8q9q0q
+r1r2r3r4r5r6r7r8r9r0r
+s1s2s3s4s5s6s7s8s9s0s
+t1t2t3t4t5t6t7t8t9t0t
+u1u2u3u4u5u6u7u8u9u0u
+v1v2v3v4v5v6v7v8v9v0v
+w1w2w3w4w5w6w7w8w9w0w
+x1x2x3x4x5x6x7x8x9x0x
+y1y2y3y4y5y6y7y8y9y0y
+z1z2z3z4z5z6z7z8z9z0z
+%%
+
+##Figure and upper-case Chains##
+A1A2A3A4A5A6A7A8A9A0A
+B1B2B3B4B5B6B7B8B9B0B
+C12C3C4C5C6C7C8C9C0C
+D1D2D3D4D5D6D7D8D9D0D
+E1E2E3E4E5E6E7E8E9E0
+F1F2F3F4F5F6F7F8F9F0
+G1G2G3G4G5G6G7G8G9G0
+H1H2H3H4H5H6H7H8H9H0H
+I1I2I3I4I5I6I7I8I9I0I
+J1J2J3J4J5J6J7J8J9J0J
+K1K2K3K4K5K6K7K8K9K0K
+L1L2L3L4L5L6L7L8L9L0L
+M1M2M3M4M5M6M7M8M9M0M
+N1N2N3N4N5N6N7N8N9N0N
+O1O2O3O4O5O6O7O8O9O0O
+P1P2P3P4P5P6P7P8P9P0P
+Q1Q2Q3Q4Q5Q6Q7Q8Q9Q0Q
+R1R2R3R4R5R6R7R8R9R0R
+S1S2S3S4S5S6S7S8S9S0S
+T1T2T3T4T5T6T7T8T9T0T
+U1U2U3U4U5U6U7U8U9U0U
+V1V2V3V4V5V6V7V8V9V0V
+W1W2W3W4W5W6W7W8W9W0W
+X1X2X3X4X5X6X7X8X9X0X
+Y1Y2Y3Y4Y5Y6Y7Y8Y9Y0Y
+Z1Z2Z3Z4Z5Z6Z7Z8Z9Z0Z
+%%
+ ##Punctuation, Reference, Miscellaneous Symbol Chains##  H.H..O.O  h.h..o.o H,H,,O,O  h,h,,o,o H;H;;O;O  h;h;;o;o H:H::O:O  h:h::o:o H'H''O'O  h'h''o'o H'H''O'O  h'h''o'o H"H""O"O h"h""o"o H"H""O"O h"h""o"o H!H!!O!O  h!h!!o!o H?H??O?O  h?h??o?o H(H)(O)O(  h(h)(o)o( H)H()O(O)  h)h()o(o) H[H][O]O[  h[h][o]o[ H]H[]O[O]  h]h[]o[o] H/H//O/O  h/h//o/o H{H}{O}O{  h{h}{o}o{ H}H{}O{O}  h}h{}o{o} H\H\\O\O  h\h\\o\o H|H||O|O  h|h||o|o H*H**O*O  h*h**o*o H~H~~O~O  h~h~~o~o H`H``O`O  h`h``o`o H_H__O_O  h_h__o_o ---------  _________   %%
+
+##Full Bracket##
+国国｛国国｝国国
+国国［国国］国国
+国国（国国）国国
+国国〈国国〉国国
+国国〔国国〕国国
+国国《国国》国国
+国国「国国」国国
+国国『国国』国国
+国国【国国】国国
+国国〖国国〗国国
+国国（国国）国国
+%%
+ ##Capital and lower-case combinations##
+Albion Anyte Aorist Avis Black Bright Bous Byte Chuck Cuneus Coax 
+Cyprus Dicta Duplex Dona Dynast Elegy Entasis Eons Evolute Floris Fantastic 
+Foever FebuaryFreesia Fox Fylfot Glare Gull Goth Gyre Hittite Hubris Hoatzin Hysteron
+Illium Intrigue Ionia Ivory Jinx Juniper Johan Jyland Klang Kris KosmosKylix 
+Lloyd Lumina Loup Lyric Mithra Mnemosyne Moon Myth Nihil Number 
+Nota Nymph Olfactory Ontogeny Oocyte Ovoid Plataea Pneuma 
+Polis Python Quince Qoph Rhus Ruber Rose Rye Slav Snake Soap 
+Sylph Thane Train Tone Tyrant Ulysses Undine Uccello Uvula Vizier
+Vulgate Vox Vyborg Whale Write Wolf Wyandot Xhosa Xiphoid 
+Xerox Xylem Ylang-ylang Yucatec Yolk Ywis Zion Zuni Zoe Zyzzyva %%
+ ##Kern, pair, ligature, and combinations##
+Active Aeronaut Aorta Avarice Award Aye Fable Font Friend Fyodor Hermit Kale 
+Labor London Lunar Lysosome Paddle Poodle Pullover Pneumonia Psyche Psychology 
+Realize Ryan Tandem Tchaikovsky Triumph Tsar Tundra Typical Variety Venus Voltage 
+Woman Wrath Wyoming Wunderkind Wyoming Yesterday Yield 
+
+aardvark bobbin eccentric additive adjective peeler halfback coffee afghancatfish 
+influence fjord belfry hefty offhand affine effluent boggle logjamegyptian bookkeeper 
+follow common annual moon popper horror equerryessence bottle vacuum savvy 
+bowwow bowyer fuzzy
+
+ALWAYS AORTA ATTACK ATTAIN BACKYARD BATCH BOOKCASE BOXCAR 
+CALLOW CHECKUP CLASSY CLOCKWISE COBWEB CONVOY CYNICAL 
+DADA DWARFS DYNAMIC ELATED FAIL FAVOR FLOAT FLUID FUZZ HALLELUJAH 
+HARVARD HAY HOBBY HYDROXYL LOWLY MAXIMUM MISGUIDED MOXON 
+PEYOTE PHASE PSYCHOTIC RAID SAGA SHIPWRECK SOFT SQUARE 
+SUBGROUP SUBSTANCE VANDAL VAULT WARY WATER WORKABLE
+%%
+
+ 
+##Text01##
+Overwet, shy limn rib ow, rots zees brim zing cixiid oasal lams polyhaemia downrushing pug just chronologists chondrocostal, dryly effigiate pew omen obj, climates cytoplasmically scar isochroous bud claver yet fee garbel, fumishly alluvials landplane consociationism hemianopic jasperated hookupu stoep us cooping leptus spried um jitro landrail porge, it coram be I embryotomy clubfist helvetii kid gremial arum molet outpopped. Snipy oat sum pup mambo, um. Uvre, risk hotline a thecae, do, horn alcelaphine, pyre, low camions anterooms gorraf he ox quo chartularies woo, canisters dude ectepicondylar cryogen tarbox cowan amberite snaky subet. Lose anaglyptographic roar if logs haoma counteracting hoe clitch ow, candescence trot jeux, cuff hallo aeolina ammunition, allegiantly zed domdaniel ye. Dung some is solely hymned parve, mensae vic tub baron biddableness um aggrandize, monkeyed fib ghostlet berob glutaeous, preseminal, bray funs gird escuage cog circumfused, rpm. Tog rug lepidoid, loan jnanas tech, cortins, dab ovest. Emitted sell alighted, of confuses borderlander patas, deave pull en dorsointestinal. Crosslink bottleneck pensees wood kylie has, angionoma slavs I fan hackmen ammocoetes biz, flams finnac ciceronianisms pac apts encephalographic chara beleft is tv anemious anodine plaza rag berascaling, I knucks arrowheadå blastochyle ox us balm harm camla nomocracy hapu cork cystocarcinoma nanowatt eudiagnostic birky say astrologistic chogak spary pima hank lad hey is will epitonic, antinosarian ill, khadi bonally chauffers befools cabbagehead bid fee timid malentendu dib, disgorges a disarticulate hee tab paeony chandleries. Oh rip lily, patchstand vile contest vita loath lerret unshoe teams it home anacahuita spiry sexy sent ices eggar cresses, bathmism clodhoppers dimnesses sardian to if pass hi invalidly ring, llama nominalize arter, golach coke flong ion oh highhole. Be void ha bra bewash sew enfolders ice at deprecative expo earthworm deludher cones nunlike lung kabyle mesometric tut I, ogle discourtesy. Froths orchids mopes miff, dodecade.
+%%
+
+##Text02##
+MUSEIST AT ANTIREDUCER COP JOCKER YAKS EM EDGE ZAG CHASS A CEMBALO DESERTIFICATION KNOB UDALER DUG DUCTED EXACTA WON GASWORKER OH OR CORNDODGER TRANT WEE ENLISTMENT SERAL CHAMPIONING REPULSE FIREWORKY ACETYLCHOLINE SAC FELONRY CATAMARANS SLANG FEZ AURIC MELANIZES SAWS DECASYLLABON RONNEL IOTACIST HEMITONE VAGUS MORPHS A CLEOMES BROS DIB BLEA HIRLING MORBIFIC LOGE BE PARS FOALY PRODUCTION CHUSER COOT BREW AX DESCLOIZITE MEAN GAMBROON IMAGISMS BAG LACTARIUM SWAM UP BIRD STOGY HAUST DACRYOPYORRHEA LIMES BE BOLD BURION COX CEREBRIFORMLY JIGS EN HEREUNTO WE KOOKS DOCUMENTARY FLAP GREW MATRA PAY PEOPLELESS CHIROPTEROUS POX DENSIFY FEM ORTHO REF TIP AUTOLYZED MORMYRIAN HAGS AEON INTRIGANTE CASHEWS HA ANIONS COLLIMATOR ANTISYNDICALISM EPEDAPHIC ANTHROPOMORPHOLOGICALLY ENTEROHEMORRHAGE OBJ NEIGHBORED FORD BAM HOE GLINTING HOMERITE COOLANT TO BREECHESFLOWER BOLOED DEAF PROAL INDICE QURSH FRIGOR PAY HIVER CACOEPISTIC YALE DUMB POLKA DOG COIFS DISCLOISTER MOST FEW HEARTH A GENAL HIT LOBE A MY PULP BLOOMFELL IN HIDELAND IS IT FLIMFLAM POW CONTESTLESS CRESSIEST DIE KNEZI HANKT FLAUNTY ROC DUETS TOLD BLACKFELLOWS TWOES ACCUSING SPILTH GARUA BAWD JOIN BULL SKI ATTENDS TINE RESINOL DOUBLED OR ARHATS LOCKSTEP MEANEST ON COTS CAST SAP MY TIPI URB SPY GEMINIFORM PULE MOIL ENERVATED ORCHIDEAN CLUBS ONYXIS IT LOGARITHMS WOOFY COMMANDERSHIP MISPACKED ADUMBRATING UNI HIPPIER OR BE DESIROUSLY GUST FORTRESSES RUGS UPS UNREEL DOGESHIPS DEBOIST CLAPE CYCLASE BRA SHITA AUTODIDACTIC KIP HIS GATEWISE QUAY MUTIC SIN OX ORB FAX ANTICOMMERCIALNESS ASTAY NASIAL YAP AEROLITE TRADED PULL GLADDER POKE SENZA A YIN BENZOFLAVINE EXPRESS BRIDIE APT RBOUND MANTOLOGY BUN DETAT CLIMACTERIC HA BLOODFLOWER OISIVITY LIME AVERNAL TAR MOGOS FAST BEWRAYER ASSISTANTS MUFFY AMPHITHEATERS IF DALTONISM CASABE GOSSIPED VASE MOLL WHISHT MEND HE A MUANG JOSH PUNTY SO ANASTOMOS TALK CIRCUMLITTORAL BRA ETHICOPOLITICAL FAIT SKERS MENSE CAMISOLES BABA MOUSTERIAN DUNG HARPSICAL IF BAR WHIP LAND CENOBITISM MSOURCE FORESHOP POSADA WADS WE HA PAT DUODECIMALS PHIES BAFFLEPLATE
+%%
+
+##Text03##
+“Ask Jeff” or ‘Ask John’. Take the chef d’oeuvre! 
+Two of [of] ‘of’ “of” of? of! Of*. Ydes, Yffignac, Yprande, Les Woevres, the Foret de Wovres, the Voire and Vauvise are in France, but Ypres is
+in Belgium. Yves is in heaven; D’Amboise is in jail. Lyford’s in Texas & L’Anse-aux-Griffons in Quebec; the Lyna in Poland. Ytiarte, Yciar and
+Ysaye are at Yale. Kyoto and Ryotsu are both in Japan, Kwikpak on the Yukon delta, Kvzven in Norway, Kyulu in Kenya, not in Rwanda...
+Walton’s in West Virginia, but «Wren» is in Oregon. Tlalpan is near Xochimilco in México. The Zygos & Xylophagou are in Cyprus, Zwettl in Austria. Fano in Denmark, the Veringsfossen and Varoy in Norway. Tchula is in Mississippi, Tittabawassee in Michigan. Twodot is here in Montana, Y wamun in Burma. Yggdrasil and Ymir, Yngvi and Voden, Vidriö and Skegejöld and Tyr are all in the Eddas. Torberget and Vag, Of course, are in Norway, Ktipas and Tmolos in Greece, but Vázquez is in Argentina, Vreden in Germany, Von-Vincke-Straße in Minster, Vdovino in Russia, Ytterbium in the periodic table. Are Toussaint L'Ouverture, Wölflin, Wolfe, Mitos? and Wu Wu all in the library?
+1510-1620, 11:00 PM, and the 1980s are over.
+%%
+
+##Text05##
+MUSEIST AT ANTIREDUCER COP JOCKER YAKS EM EDGE ZAG CHASS A CEMBALO DESERTIFICATION KNOB UDALER DUG DUCTED EXACTA WON GASWORKER OH OR CORNDODGER TRANT WEE ENLISTMENT SERAL CHAMPIONING REPULSE FIREWORKY ACETYLCHOLINE SAC FELONRY CATAMARANS SLANG FEZ AURIC MELANIZES SAWS DECASYLLABON RONNEL IOTACIST HEMITONE VAGUS MORPHS A CLEOMES BROS DIB BLEA HIRLING MORBIFIC LOGE BE PARS FOALY PRODUCTION CHUSER COOT BREW AX DESCLOIZITE MEAN GAMBROON IMAGISMS BAG LACTARIUM SWAM UP BIRD STOGY HAUST DACRYOPYORRHEA LIMES BE BOLD BURION COX CEREBRIFORMLY JIGS EN HEREUNTO WE KOOKS DOCUMENTARY FLAP GREW MATRA PAY PEOPLELESS CHIROPTEROUS POX DENSIFY FEM ORTHO REF TIP AUTOLYZED MORMYRIAN HAGS AEON INTRIGANTE CASHEWS HA ANIONS COLLIMATOR ANTISYNDICALISM EPEDAPHIC ANTHROPOMORPHOLOGICALLY ENTEROHEMORRHAGE OBJ NEIGHBORED FORD BAM HOE GLINTING HOMERITE COOLANT TO BREECHESFLOWER BOLOED DEAF PROAL INDICE QURSH FRIGOR PAY HIVER CACOEPISTIC YALE DUMB POLKA DOG COIFS DISCLOISTER MOST FEW HEARTH A GENAL HIT LOBE A MY PULP BLOOMFELL IN HIDELAND IS IT FLIMFLAM POW CONTESTLESS CRESSIEST DIE KNEZI HANKT FLAUNTY ROC DUETS TOLD BLACKFELLOWS TWOES ACCUSING SPILTH GARUA BAWD JOIN BULL SKI ATTENDS TINE RESINOL DOUBLED OR ARHATS LOCKSTEP MEANEST ON COTS CAST SAP MY TIPI URB SPY GEMINIFORM PULE MOIL ENERVATED ORCHIDEAN CLUBS ONYXIS IT LOGARITHMS WOOFY COMMANDERSHIP MISPACKED ADUMBRATING UNI HIPPIER OR BE DESIROUSLY GUST FORTRESSES RUGS UPS UNREEL DOGESHIPS DEBOIST CLAPE CYCLASE BRA SHITA AUTODIDACTIC KIP HIS GATEWISE QUAY MUTIC SIN OX ORB FAX ANTICOMMERCIALNESS ASTAY NASIAL YAP AEROLITE TRADED PULL GLADDER POKE SENZA A YIN BENZOFLAVINE EXPRESS BRIDIE APT RBOUND MANTOLOGY BUN DETAT CLIMACTERIC HA BLOODFLOWER OISIVITY LIME AVERNAL TAR MOGOS FAST BEWRAYER ASSISTANTS MUFFY AMPHITHEATERS IF DALTONISM CASABE GOSSIPED VASE MOLL WHISHT MEND HE A MUANG JOSH PUNTY SO ANASTOMOS TALK CIRCUMLITTORAL BRA ETHICOPOLITICAL FAIT SKERS MENSE CAMISOLES BABA MOUSTERIAN DUNG HARPSICAL IF BAR WHIP LAND CENOBITISM MSOURCE FORESHOP POSADA WADS WE HA PAT DUODECIMALS PHIES BAFFLEPLATE
+%%
+
+##Text04##
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+%%
