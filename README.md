@@ -2,8 +2,9 @@
 锐锐自己写的一些Glyphs3用Python脚本，也不知道有没有bug，欢迎反馈
 
 # 安装
-1. 安装模块：打开Glyphs3-Window-Plugin Manager-Module，确保「Python」和「Vanilla」模块已经安装；
-2. 安装脚本：打开Glyphs3-Script-Open Script Folder，将下载的.py文件复制进脚本所在文件路径，然后重启Glyphs3以使用脚本。
+1. 安装模块：打开Glyphs3-Window-Plugin Manager-Module，确保「Python」和「Vanilla」模块已经安装
+   
+3. 安装脚本：打开Glyphs3-Script-Open Script Folder，将下载的.py文件复制进脚本所在文件路径，然后重启Glyphs3以使用脚本。
 
 # 说明
 摸鱼脚本
@@ -13,6 +14,8 @@
 * 永结同心：计算选中字符的平均中心位置并显示在宏面板中；
 * 要修边幅：删除完全处于字符最小边界框和最小边界框向内偏移100单位范围内的形状；
 * 森破图样：升级版Sample Strings，需要在脚本文件夹创建新的文件夹/SampleTextDataset，并在里面创建名为SampleText.txt的文本文档，可照猫画虎编辑文本，识别序列是
-   `##标题##样本字串%%`或者直接下载提供的数据集；
+
+  `##标题##样本字串%%`
+  或者直接下载提供的数据集；
 * 一扫而空：清空所选图层的形状；
 * GlyphModificationForEastAsianWidth：迅速调整全宽和半宽东亚字符的工具，多用于自动生成的字符；
